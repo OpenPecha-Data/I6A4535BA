@@ -5,11 +5,13 @@ source_metadata:
   title: ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚིག་ལེའུར་བྱས་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་
   author: ''
   volumes:
-    a86cc9706a7c44dfbb4480426012ba9e:
+    0a23e5ce37724c42aaa06905bf37bd89:
       image_group_id: I1KG1093
-      title: ''
+      title: Volume 1 of tshad ma rnam 'grel gyi tshig le'ur byas pa zhes bya ba'i
+        mchan 'grel
       volume_number: 1
       total_pages: 528
+      base_file: v001.txt
 ebook_metadata:
   title: ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚིག་ལེའུར་བྱས་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་
   author: ''
